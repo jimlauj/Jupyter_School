@@ -1,1 +1,2 @@
 # Jupyter_School
+# Pymaceuticals
